@@ -3,6 +3,8 @@
 Author:     Andy Russell <arussell123@gmail.com>
 License:    MIT
 
+Version: 1
+
 ==============================================================================
 
 INTRODUCTION                            *markdown-composer*
